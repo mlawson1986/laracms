@@ -1,0 +1,28 @@
+{
+  "name": "laracms",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Mike <mlawson1986@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mlawson1986/laracms",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "AngularJS": "angular-latest#~1.4.8",
+    "blueimp-file-upload": "jquery-file-upload#~9.11.2",
+    "bootstrap": "~3.3.5",
+    "ckeditor": "~4.5.5",
+    "jquery": "~2.1.4",
+    "jquery-ui": "~1.11.4",
+    "font-awesome": "fontawesome#~4.4.0"
+  }
+}
