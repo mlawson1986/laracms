@@ -17,7 +17,6 @@
     "tests"
   ],
   "dependencies": {
-    "AngularJS": "angular-latest#~1.4.8",
     "blueimp-file-upload": "jquery-file-upload#~9.11.2",
     "bootstrap": "~3.3.5",
     "ckeditor": "~4.5.5",
@@ -25,6 +24,12 @@
     "jquery-ui": "~1.11.4",
     "font-awesome": "fontawesome#~4.4.0",
     "typeahead.js": "~0.11.1",
-    "typeahead.js-bootstrap3.less": "~0.2.3"
+    "typeahead.js-bootstrap3.less": "~0.2.3",
+    "bootstrap-tokenfield": "~0.12.1",
+    "angular": "~1.4.8"
+  },
+  "resolutions": {
+    "typeahead.js": "~0.11.1",
+    "bootstrap": "~3.3.5"
   }
 }

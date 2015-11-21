@@ -2,7 +2,7 @@
 
 namespace Laracms\Http\Controllers\Auth;
 
-use Laracms\User;
+use Laracms\Models\User;
 use Validator;
 use Laracms\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
